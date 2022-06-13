@@ -1,0 +1,9 @@
+{
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": false,
+  "prettier.enable": true,
+  "prettier.tabWidth": 4,
+  "prettier.semi": false
+}
